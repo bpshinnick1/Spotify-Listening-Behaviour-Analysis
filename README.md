@@ -6,6 +6,8 @@
 ![Data Period](https://img.shields.io/badge/Data%20Period-Sep--Dec%202025-blue)
 ![Records Analyzed](https://img.shields.io/badge/Records-10%2C511-orange)
 
+![Project Banner](screenshots/banner.png)
+
 **End-to-end analytics pipeline analyzing personal Spotify listening behaviour enriched with weather data**
 
 [View Live Dashboard](#dashboards) • [SQL Queries](sql/) • [Project Structure](#project-structure)
